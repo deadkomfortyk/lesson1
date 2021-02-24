@@ -1,0 +1,61 @@
+body{
+    border: black 1px solid;
+}
+.p1 a{
+    color:yellowgreen;
+}
+.p2 a{
+    display: block;
+    color:yellowgreen;
+    text-align: right;
+}
+.p3 a{
+    display: block;
+    color:yellowgreen;
+    text-align: right;
+}
+.p4{
+    position: relative;
+    font-size: 17px;
+}
+.p5{
+    position: relative;
+    font-size: 17px;
+    left: 10px;
+}
+.p6{
+    position: relative;
+    text-align: center;
+    top: 140px;
+    background-color:rgb(114, 104, 85);
+    border: white 0px solid;
+ 
+}
+.p6 a{
+    
+    color:white;
+       text-decoration: none;
+
+}
+.p6 a:hover{
+    border-radius: 8px 8px 0 0;
+    transition: 0.5s all;
+    padding: 3px 5px 0 8px;
+    background-color: rgba(161, 153, 153, 0.178);
+    transform: scale(1.1);
+}
+.hr{
+    position: relative;
+    top:10px;
+}
+.h2 {
+    color:orange;
+}
+.pp{
+display: block;
+text-align: right;
+line-height: 0.6;
+}
+.punkt{
+    line-height: 0.8;
+}
