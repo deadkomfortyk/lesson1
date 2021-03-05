@@ -96,6 +96,20 @@
 // })(90)
 
 //#10
+//let a = [1,2,3,4,5,6,7,"d","g","y","mm", "erg","egrtd"]
 
+//console.log(a)
+
+//function Masss(a){
+//    for (let i = 0; i<a.length;i++){
+//        if (parseInt(a[i]) == a[i] ) {
+//            a[i] = a[i]*a[i]
+ //       }
+//    }
+//
+//    console.log(a)
+//}
+//
+//Masss(a)
 
 
