@@ -1,13 +1,13 @@
-//#1
-// let n = 100;
-// nextPrime:
-//     for (let i = 2; i <= n; i++) { // Для всех i...
-//
-//         for (let j = 2; j < i; j++) { // проверить, делится ли число..
-//             if (i % j == 0) continue nextPrime; // не подходит, берём следующее
-//         }
-//         console.log(i); // простое число
-//     }
+
+let n = 100;
+nextPrime:
+    for (let i = 2; i <= n; i++) { // Для всех i...
+
+        for (let j = 2; j < i; j++) { // проверить, делится ли число..
+            if (i % j == 0) continue nextPrime; // не подходит, берём следующее
+        }
+        console.log(i); // простое число
+    }
 // //#2
 // let b = 0;
 // do{
